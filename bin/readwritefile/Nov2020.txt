@@ -1,0 +1,4 @@
+This batch is November white box automation
+Awesome
+Excelent
+Hello world
